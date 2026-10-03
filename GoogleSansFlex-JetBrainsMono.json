@@ -20,6 +20,15 @@
     "NotoSans-Bold": "https://raw.githubusercontent.com/Heptex/GoogleSansFlex-JetBrainsMono-Revenge/main/GoogleSansFlex-Bold.ttf",
     "NotoSans-ExtraBold": "https://raw.githubusercontent.com/Heptex/GoogleSansFlex-JetBrainsMono-Revenge/main/GoogleSansFlex-ExtraBold.ttf",
     "NotoSans-NormalItalic": "https://raw.githubusercontent.com/Heptex/GoogleSansFlex-JetBrainsMono-Revenge/main/GoogleSansFlex-Italic.ttf",
-    "SourceCodePro-Semibold": "https://raw.githubusercontent.com/Heptex/GoogleSansFlex-JetBrainsMono-Revenge/main/JetBrainsMono-SemiBold.ttf"
+    "SourceCodePro-Regular": "https://raw.githubusercontent.com/Heptex/GoogleSansFlex-JetBrainsMono-Revenge/main/JetBrainsMono-Regular.ttf",
+    "SourceCodePro-Normal": "https://raw.githubusercontent.com/Heptex/GoogleSansFlex-JetBrainsMono-Revenge/main/JetBrainsMono-Regular.ttf",
+    "SourceCodePro-Medium": "https://raw.githubusercontent.com/Heptex/GoogleSansFlex-JetBrainsMono-Revenge/main/JetBrainsMono-Medium.ttf",
+    "SourceCodePro-Semibold": "https://raw.githubusercontent.com/Heptex/GoogleSansFlex-JetBrainsMono-Revenge/main/JetBrainsMono-SemiBold.ttf",
+    "SourceCodePro-Bold": "https://raw.githubusercontent.com/Heptex/GoogleSansFlex-JetBrainsMono-Revenge/main/JetBrainsMono-Bold.ttf",
+    "RobotoMono-Regular": "https://raw.githubusercontent.com/Heptex/GoogleSansFlex-JetBrainsMono-Revenge/main/JetBrainsMono-Regular.ttf",
+    "RobotoMono-Medium": "https://raw.githubusercontent.com/Heptex/GoogleSansFlex-JetBrainsMono-Revenge/main/JetBrainsMono-Medium.ttf",
+    "RobotoMono-Bold": "https://raw.githubusercontent.com/Heptex/GoogleSansFlex-JetBrainsMono-Revenge/main/JetBrainsMono-Bold.ttf",
+    "Consolas": "https://raw.githubusercontent.com/Heptex/GoogleSansFlex-JetBrainsMono-Revenge/main/JetBrainsMono-Regular.ttf",
+    "monospace": "https://raw.githubusercontent.com/Heptex/GoogleSansFlex-JetBrainsMono-Revenge/main/JetBrainsMono-Regular.ttf"
   }
 }
